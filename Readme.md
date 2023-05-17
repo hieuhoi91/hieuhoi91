@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiếu Hói</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B062&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=A+passionate+frontend+developer+from+Vietnam)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem27&label=Profile%20views&color=F7B062&style=flat" alt="khiem27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem27&label=Profile%20views&color=F7B062&style=flat" alt="hieuhoi91" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/duck-cuteness-baby-82nxC1u2BC8VU1wiZq">
+<img align="right" alt="Coding" width="400" src="giphy.com/gifs/duck-cuteness-baby-82nxC1u2BC8VU1wiZq">
 - 👨‍💻 My CV is available at <a href="https://www.topcv.vn/xem-cv/B1VYBQAEBgRRUQZTUAJUBQZbVgYDUAsBUwFTWg7914">here</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Redux Toolkit, Axios Api.**
@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I'm a sau rieng boy !!!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hieuhoi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khiemltct" height="30" width="40" /></a>
+<a href="https://fb.com/hieuhoi91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieuhoi91" height="30" width="40" /></a>
  <a href="https://instagram.com/hieu_hhoii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hieuhoi91" height="30" width="40" /></a>
 </p>
 
