@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khiem27&label=Profile%20views&color=F7B062&style=flat" alt="hieuhoi91" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYwNDJkM2RkOTAyNDBkYzYwOGUxMDgyYzBjOTliYmRiNjI2M2FhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/82nxC1u2BC8VU1wiZq/giphy.gif">
-- 👨‍💻 My CV is available at <a href="">here</a>
+- 👨‍💻 My CV is available at <a href="https://www.topcv.vn/xem-cv/AwUFBAYDCAALCFoBVwEFBARVAQcAWg0FUFcHAgaa8d">here</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Redux Toolkit, Axios Api.**
 
