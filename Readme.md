@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Redux Toolkit, Axios Api.**
 
-- 📫 How to reach me **hieuhoi912002@gmail.com**
+- 📫 How to reach me **hieudev91@gmail.com**
 
 - ⚡ Fun fact **I'm a funny boy !!!**
 <h3 align="left">Connect with me:</h3>
